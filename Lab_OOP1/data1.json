@@ -1,0 +1,30 @@
+[
+  {
+    "Item1": {
+      "CenterX": 120,
+      "CenterY": 32,
+      "radius": 3,
+      "Color": 0
+    },
+    "Item2": "Triangle"
+  },
+  {
+    "Item1": {
+      "CenterX": 120,
+      "CenterY": 32,
+      "r1": 2,
+      "r2": 1,
+      "Color": 0
+    },
+    "Item2": "Ellipse"
+  },
+  {
+    "Item1": {
+      "CenterX": 120,
+      "CenterY": 32,
+      "radius": 5,
+      "Color": 2
+    },
+    "Item2": "Circle"
+  }
+]
