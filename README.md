@@ -1,4 +1,4 @@
-# Lab work 2 : Document app by Pavel Zdor, Group Number - (12)
+# Lab work 2 : Document app by Borovikov Egor, Group Number - (4)
 
 ## Short description of lab
 This is s simple project using c# as a language and OOP principles and patterns
