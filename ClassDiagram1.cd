@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Lab2.MainMenu">
+    <Position X="8.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAACgQACAAAAQAAAAECAAAABAAAAAAAABAAAA=</HashCode>
+      <FileName>Menu's\MainMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="checker" />
+      <Field Name="manager" />
+      <Field Name="Worker" />
+      <Field Name="set" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.UserMenu">
+    <Position X="31.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAQACBAAAQAAAAUABAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Menu's\UserMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="checker" />
+      <Field Name="manager" />
+      <Field Name="managerUs" />
+      <Field Name="currUser" />
+      <Field Name="set" />
+      <Field Name="w_l" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="docs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.Checker" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Checker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.Document">
+    <Position X="23.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBIAAEACBAEIAIAAAQAQAgBFAAAIAQAAAAIACgA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Cstorage" />
+      <Field Name="w_c" />
+      <Field Name="w_l" />
+      <Field Name="CloudStr" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.EventManager" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIACAABAAAAAAAAAAAA=</HashCode>
+      <FileName>EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.ManageMemFile&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ManageMemFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.Settings" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAAAABAAAAQCAAAAkAAAAIAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.User">
+    <Position X="20.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQgABQBAAAAAACAAUAAAAMAgAAAAAAABAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="editor" />
+      <Field Name="Menu" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="docs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.ChangeFormatAdapters.CurrentToJSONAdapter" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeFormatAdapters\CurrentToJSONAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.ChangeFormatAdapters.CurrentToMarkdownAdapter" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeFormatAdapters\CurrentToMarkdownAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.ChangeFormatAdapters.CurrentToRTFAdapter" Collapsed="true">
+    <Position X="17" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ChangeFormatAdapters\CurrentToRTFAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.ChangeFormatAdapters.CurrentToTxtAdapter" Collapsed="true">
+    <Position X="18.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeFormatAdapters\CurrentToTxtAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.ChangeFormatAdapters.CurrentToXMLAdapter" Collapsed="true">
+    <Position X="20.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeFormatAdapters\CurrentToXMLAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.Command.CommandManager">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIgAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command\CommandManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ReDoOp" />
+      <Field Name="UnDoOp" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.Command.Frame" Collapsed="true">
+    <Position X="29.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQAAAEAAAA=</HashCode>
+      <FileName>Command\Frame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.FileSafe.CloudStrategy" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAIAACQAAAAAAAAQCAAAAAgAAAAAAAAASAA=</HashCode>
+      <FileName>FileSafe\CloudStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Cstorage" />
+      <Field Name="checker" />
+      <Field Name="w_c" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.FileSafe.WorkWithCloud" Collapsed="true">
+    <Position X="15" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAgAAEA=</HashCode>
+      <FileName>FileSafe\WorkWithCloud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.FileSafe.WorkWithLocal" Collapsed="true">
+    <Position X="15" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileSafe\WorkWithLocal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.FontSettings" Collapsed="true">
+    <Position X="29" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JSONSystem\FontSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.Profile" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAEAAA=</HashCode>
+      <FileName>JSONSystem\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.ProfileDefaults" Collapsed="true">
+    <Position X="31" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>JSONSystem\ProfileDefaults.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.ProfilesConfig" Collapsed="true">
+    <Position X="33" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>JSONSystem\ProfilesConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.SchemaSettings" Collapsed="true">
+    <Position X="28.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JSONSystem\SchemaSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.JSONSystem.TerminalSettings" Collapsed="true">
+    <Position X="27" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JSONSystem\TerminalSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.Menu_s.DocumentMenu">
+    <Position X="6" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAADACACAAACRBiAQBAAAAAAABBAASAAAKACBgcDA=</HashCode>
+      <FileName>Menu's\DocumentMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Worker" />
+      <Field Name="checker" />
+      <Field Name="strat" />
+      <Field Name="Manager" />
+      <Field Name="Manag" />
+      <Field Name="Document" />
+      <Field Name="set" />
+      <Field Name="cmd" />
+      <Field Name="cldd" />
+      <Field Name="md" />
+      <Field Name="xd" />
+      <Field Name="rd" />
+      <Field Name="jd" />
+      <Field Name="td" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOP_Lab2.Storages.CloudStorage" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Storages\CloudStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.BaseDecorator" Collapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\BaseDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.JsonDecorator" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\JsonDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.MarkdownDecorator" Collapsed="true">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\MarkdownDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.RtfDecorator" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\RtfDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.TxtDecorator" Collapsed="true">
+    <Position X="15.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\TxtDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.StyleDecorator.XmlDecorator" Collapsed="true">
+    <Position X="17.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>StyleDecorator\XmlDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.UserStrategy.AdminStrategy" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAACAIAQAAQBIAAAQAs0BAGABAAgAAgAAAAAQAA=</HashCode>
+      <FileName>UserStrategy\AdminStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Manager" />
+      <Field Name="CurrentUser" />
+      <Field Name="CurrDoc" />
+      <Field Name="menu" />
+      <Field Name="settings" />
+      <Field Name="manager" />
+      <Field Name="w_c" />
+      <Field Name="w_l" />
+      <Field Name="JAdapt" />
+      <Field Name="MdAdapt" />
+      <Field Name="RtfAdapt" />
+      <Field Name="TxtAdapt" />
+      <Field Name="XmlAdapt" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="docs" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_Lab2.UserStrategy.EditorStrategy" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAACAIAQAAQAIAAAQAs0BAGABQAgAAgAAAAAQAA=</HashCode>
+      <FileName>UserStrategy\EditorStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Manager" />
+      <Field Name="CurrentUser" />
+      <Field Name="CurrDoc" />
+      <Field Name="menu" />
+      <Field Name="settings" />
+      <Field Name="manager" />
+      <Field Name="w_c" />
+      <Field Name="w_l" />
+      <Field Name="JAdapt" />
+      <Field Name="MdAdapt" />
+      <Field Name="RtfAdapt" />
+      <Field Name="TxtAdapt" />
+      <Field Name="XmlAdapt" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="docs" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_Lab2.UserStrategy.ReaderStrategy" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQAAQAIAAAAAg0AACABAAgAAAAAAAAQAA=</HashCode>
+      <FileName>UserStrategy\ReaderStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Manager" />
+      <Field Name="CurrentUser" />
+      <Field Name="CurrDoc" />
+      <Field Name="menu" />
+      <Field Name="settings" />
+      <Field Name="manager" />
+      <Field Name="w_c" />
+      <Field Name="w_l" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="docs" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_Lab2.WorkWithUsers" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>WorkWithUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Lab2.FileSafe.LocalStrategy">
+    <Position X="24.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAACAAAQAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileSafe\LocalStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="w_l" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="OOP_Lab2.UserStrategy.IUserStrategy" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAgAAAAAAAAQAA=</HashCode>
+      <FileName>UserStrategy\IUserStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
