@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj",
+        "projectName": "StudentManagementSystem.Domain",
+        "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
+        "outputPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+        "projectName": "StudentManagementSystem.Application",
+        "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
+        "outputPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj": {
+                "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj"
+              },
+              "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj": {
+                "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj",
+        "projectName": "StudentManagementSystem.Data",
+        "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
+        "outputPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj": {
+                "projectPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\StudentManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

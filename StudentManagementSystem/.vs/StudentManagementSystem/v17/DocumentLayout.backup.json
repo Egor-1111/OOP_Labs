@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A72047F-EA29-4E01-8FCB-B3364C77F782}|StudentManagementSystem.ConsoleUI\\StudentManagementSystem.ConsoleUI.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.consoleui\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3A72047F-EA29-4E01-8FCB-B3364C77F782}|StudentManagementSystem.ConsoleUI\\StudentManagementSystem.ConsoleUI.csproj|solutionrelative:studentmanagementsystem.consoleui\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5238E75A-D881-4C8E-A552-B6D99047DA8B}|StudentManagementSystem.Tests\\StudentManagementSystem.Tests.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5238E75A-D881-4C8E-A552-B6D99047DA8B}|StudentManagementSystem.Tests\\StudentManagementSystem.Tests.csproj|solutionrelative:studentmanagementsystem.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5238E75A-D881-4C8E-A552-B6D99047DA8B}|StudentManagementSystem.Tests\\StudentManagementSystem.Tests.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.tests\\quoteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5238E75A-D881-4C8E-A552-B6D99047DA8B}|StudentManagementSystem.Tests\\StudentManagementSystem.Tests.csproj|solutionrelative:studentmanagementsystem.tests\\quoteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A72047F-EA29-4E01-8FCB-B3364C77F782}|StudentManagementSystem.ConsoleUI\\StudentManagementSystem.ConsoleUI.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A72047F-EA29-4E01-8FCB-B3364C77F782}|StudentManagementSystem.ConsoleUI\\StudentManagementSystem.ConsoleUI.csproj|solutionrelative:studentmanagementsystem.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\quotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\quotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910DC55C-E12C-4BC5-906A-3AEA5251E9BF}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910DC55C-E12C-4BC5-906A-3AEA5251E9BF}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.application\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77413D88-6903-4F9F-B8AE-89AD36EAA369}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910DC55C-E12C-4BC5-906A-3AEA5251E9BF}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\studentmanagementsystem.data\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910DC55C-E12C-4BC5-906A-3AEA5251E9BF}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F516CCF-A2F8-4CE2-9C0C-7E8D7054B6EA}|Domain\\StudentManagementSystem.Domain.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\domain\\quote.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F516CCF-A2F8-4CE2-9C0C-7E8D7054B6EA}|Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:domain\\quote.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F516CCF-A2F8-4CE2-9C0C-7E8D7054B6EA}|Domain\\StudentManagementSystem.Domain.csproj|d:\\labborc#\\lab_oop3\\studentmanagementsystem\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F516CCF-A2F8-4CE2-9C0C-7E8D7054B6EA}|Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.ConsoleUI\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "StudentManagementSystem.ConsoleUI\\ClassDiagram1.cd",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.ConsoleUI\\ClassDiagram1.cd",
+              "RelativeToolTip": "StudentManagementSystem.ConsoleUI\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-13T17:02:00.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\IQuoteService.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\IQuoteService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\IQuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:34:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\QuoteService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\QuoteService.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\QuoteService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\QuoteService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:36:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.ConsoleUI\\Program.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem.ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:37:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuoteServiceTests.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Tests\\QuoteServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Tests\\QuoteServiceTests.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Tests\\QuoteServiceTests.cs",
+              "RelativeToolTip": "StudentManagementSystem.Tests\\QuoteServiceTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:53:06.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\IStudentService.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:25:04.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Tests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Tests\\StudentServiceTests.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Tests\\StudentServiceTests.cs",
+              "RelativeToolTip": "StudentManagementSystem.Tests\\StudentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:45:39.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\StudentService.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:34:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\StudentRepository.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:14:08.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuoteDto.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\QuoteDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\QuoteDto.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\QuoteDto.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\QuoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:24:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\StudentDTO.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentDTO.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:15:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\IStudentRepository.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\StudentManagementSystem.Data\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:08:54.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quote.cs.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\Quote.cs.cs",
+              "RelativeDocumentMoniker": "Domain\\Quote.cs.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\Quote.cs.cs",
+              "RelativeToolTip": "Domain\\Quote.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:06:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Student.cs",
+              "ToolTip": "D:\\LabBorC#\\Lab_OOP3\\StudentManagementSystem\\Domain\\Student.cs",
+              "RelativeToolTip": "Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:03:54.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

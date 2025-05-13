@@ -1,0 +1,15 @@
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net8.0\StudentManagementSystem.Data.deps.json
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net8.0\StudentManagementSystem.Data.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net8.0\StudentManagementSystem.Data.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net8.0\StudentManagementSystem.Domain.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net8.0\StudentManagementSystem.Domain.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.csproj.AssemblyReference.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.AssemblyInfoInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.AssemblyInfo.cs
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.csproj.CoreCompileInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentM.0A3E0F0F.Up2Date
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\refint\StudentManagementSystem.Data.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\StudentManagementSystem.Data.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net8.0\ref\StudentManagementSystem.Data.dll

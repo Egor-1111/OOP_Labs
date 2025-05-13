@@ -1,0 +1,11 @@
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\bin\Debug\net8.0\StudentManagementSystem.Domain.deps.json
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\bin\Debug\net8.0\StudentManagementSystem.Domain.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\bin\Debug\net8.0\StudentManagementSystem.Domain.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.AssemblyInfo.cs
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\refint\StudentManagementSystem.Domain.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\StudentManagementSystem.Domain.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\Domain\obj\Debug\net8.0\ref\StudentManagementSystem.Domain.dll

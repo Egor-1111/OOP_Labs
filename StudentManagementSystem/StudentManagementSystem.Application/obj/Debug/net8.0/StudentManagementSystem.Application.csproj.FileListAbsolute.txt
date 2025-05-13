@@ -1,0 +1,17 @@
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.deps.json
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Data.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Domain.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Domain.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Data.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.csproj.AssemblyReference.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.AssemblyInfoInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.AssemblyInfo.cs
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentM.486FEF39.Up2Date
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\refint\StudentManagementSystem.Application.dll
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.pdb
+D:\LabBorC#\Lab_OOP3\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net8.0\ref\StudentManagementSystem.Application.dll
